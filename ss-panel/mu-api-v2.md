@@ -133,6 +133,7 @@ The data posted is json, for example:
         "d": 1024
     }
 ]
+</pre>
 
 If returned 200 then success, if 400 then failed, and will come along with an array, the array will contain users updated traffic successfully.
 
